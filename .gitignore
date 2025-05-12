@@ -1,0 +1,34 @@
+# Geçici dosyalar
+*.tmp
+*.bak
+*.log
+
+# Çıktı ve önizleme dosyaları
+*.IntLib
+*.zip
+*.rar
+*.7z
+*.pdf
+*.schdocpreview
+*.pcbdocpreview
+
+# Kullanıcı ayarları ve geçmiş klasörleri
+__Previews/
+History/
+Project Logs/
+Trash/
+*.PrjPCBStructure
+
+# Altium Cache ve veritabanı dosyaları
+*.dcm
+*.db
+*.ddb
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Eğer versiyon kontrol istemiyorsan şunları da ekleyebilirsin:
+*.outjob
+*.crc
